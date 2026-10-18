@@ -1,5 +1,0 @@
-# PDF text checks and rendered-page contact sheets; compilation uses external TeX.
-PyMuPDF
-Pillow
-# Descriptive figures from historical experiment records.
-matplotlib
